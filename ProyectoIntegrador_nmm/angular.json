@@ -25,9 +25,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "ProyectoIntegrador-MartinoNicolas/ProyectoIntegrador_nmm/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "ProyectoIntegrador-MartinoNicolas/ProyectoIntegrador_nmm/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -94,5 +97,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "4683d370-79d9-4f9e-974f-03093fa9de6a"
   }
 }
