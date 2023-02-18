@@ -1,3 +1,22 @@
 #logoap{
     width: 150px;
+    padding: 20px;
+}
+.redes{
+    margin-right: 0.7em;
+}
+img{
+    width: 46px;
+    padding: 5px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn{
+    border-width: medium;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 8px;
 }
